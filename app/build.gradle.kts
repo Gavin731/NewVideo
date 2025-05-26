@@ -19,7 +19,7 @@ android {
     }
     signingConfigs {
         create("config") {
-            storeFile = File("D:\\Keys\\juduo.jks")
+            storeFile = File("D:\\project\\ad\\juduo.jks")
             storePassword = "juduo123"
             keyAlias = "juduo"
             keyPassword = "juduo123"
